@@ -1,2 +1,3 @@
 select * from user_name where tranid =1
 select * from user_name where tranid =2
+select * from user_name where tranid =3
